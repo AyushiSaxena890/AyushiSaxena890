@@ -43,7 +43,7 @@ Hii! I m Ayushi Saxena. This repository contains my Github profile README
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi%20Saxena-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn]https://www.linkedin.com/in/ayushi-saxena-8a2921278
 [![Gmail](https://img.shields.io/badge/Email-ayushisaxena890@gmail.com-red?style=flat-square&logo=gmail)](mailto:ayushisaxena890@gmail.com)
 
 ---
