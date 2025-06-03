@@ -42,10 +42,17 @@ Hii! I m Ayushi Saxena. This repository contains my Github profile README
 
 ---
 
+
+### 📜 Certificates:
+- [Frontend Development – OneRoadmap](https://oneroadmap.io/skills/frontend/certificate/CERT-7857CB51)  
+- [Artificial Intelligence – OneRoadmap](https://oneroadmap.io/skills/ai/certificate/CERT-39E910F0)  
+- [Data Analytics – OneRoadmap](https://oneroadmap.io/skills/da/certificate/CERT-AEBBFE4B)
+
+
 ### 📫 Connect with Me:
 [![LinkedIn]https://www.linkedin.com/in/ayushi-saxena-8a2921278
 [![Gmail]https://www.Gmail.com/in/ayushia.skanpur.as@gmail.com
-
+[![contactno]+91-9555772150
 ---
 
 🌟 Thanks for visiting my GitHub! Feel free to check out my projects and give a ⭐ if you like them!
