@@ -52,7 +52,7 @@ Hii! I m Ayushi Saxena. This repository contains my Github profile README
 ### 📫 Connect with Me:
 [![LinkedIn]https://www.linkedin.com/in/ayushi-saxena-8a2921278
 [![Gmail]https://www.Gmail.com/in/ayushia.skanpur.as@gmail.com
-[![contactno]+91-9555772150
+
 ---
 
 🌟 Thanks for visiting my GitHub! Feel free to check out my projects and give a ⭐ if you like them!
